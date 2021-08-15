@@ -16,7 +16,7 @@ description:
 
 source-repository head
   type:                git
-  location:            git://github.com/ThreeEyedGod/pdf-toolbox.git
+  location:            git://github.com/Yuras/pdf-toolbox.git
 
 library
   hs-source-dirs:      lib
